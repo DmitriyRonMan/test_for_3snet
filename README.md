@@ -39,11 +39,10 @@
 
 ### Установка и запуск
 
-1. **Склонировать репозиторий на свой рабочий стол (или в любую другую директорию)**:
+1. **Склонировать репозиторий и сразу перейти в его папку**:
 
 ```bash
-git clone git@github.com:DmitriyRonMan/test_for_3snet.git
-cd test_for_3snet
+git clone git@github.com:DmitriyRonMan/test_for_3snet.git && cd test_for_3snet
 ```
 
 2. **Установить зависимости проекта**:
